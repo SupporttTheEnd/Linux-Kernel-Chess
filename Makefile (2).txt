@@ -1,0 +1,12 @@
+CC := gcc
+CFLAGS := -Wall
+
+driver: driver.c
+	$(CC) $(CFLAGS) -o $@ $^
+
+run: driver
+	sudo ./driver
+
+.PHONY: clean
+clean:
+	rm -f driver
