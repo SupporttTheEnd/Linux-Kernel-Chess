@@ -1,8 +1,6 @@
 /*
-project: 03
 author: Andrew Tang
 email: andrew73@umbc.edu
-student id: AI94171
 description: a implementation of chess in a kernel module
 */
 #include <linux/init.h>
