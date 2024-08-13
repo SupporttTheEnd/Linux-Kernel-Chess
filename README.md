@@ -199,9 +199,6 @@ __Difficulty Levels: If applicable, explain how different difficulty levels are 
 -------------------------------------------------------
 For the purposes of this base project, there was nothing on different difficulty levels described, so they were not implemented. 
 
-========================================
-**Extra Credit Implementations**
-========================================
 __Description of Features: For any extra credit features (such as support for castling, en passant, advanced AI strategies), provide detailed descriptions of how these features are implemented and integrated into the overall module.__
 -------------------------------------------------------
 
