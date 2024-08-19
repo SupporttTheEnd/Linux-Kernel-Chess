@@ -1,7 +1,3 @@
-Here's a README.md file formatted based on the provided information. It includes all necessary details and omits any references to school projects.
-
----
-
 # Chess Game
 
 ## **How To Use**
