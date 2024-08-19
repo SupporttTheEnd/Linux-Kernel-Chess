@@ -128,7 +128,3 @@ These features ensure a challenging opponent, enhancing the user experience by p
 - [Embetronicx - Misc Device Driver Tutorial](https://embetronicx.com/tutorials/linux/device-drivers/misc-device-driver/)
 - [Linux Kernel Documentation - Misc Devices](https://docs.kernel.org/5.10/driver-api/misc_devices.html)
 - [Chess.com - Learn How to Play Chess](https://www.chess.com/learn-how-to-play-chess)
-
----
-
-Feel free to adjust any details or add any additional information as needed!
